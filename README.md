@@ -1,5 +1,5 @@
 # Paint.net-Plugins
 plugins for paint.net
-Current plugins:
+# Current plugins:
 * blend with color
 * bait maker
