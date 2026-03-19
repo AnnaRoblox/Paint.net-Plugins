@@ -4,5 +4,7 @@ plugins for paint.net
 * Blend With Color
 * Bait Maker
 * Color Replacer
+* Brightness Adjuster
+* Bypass Creator
 
   
