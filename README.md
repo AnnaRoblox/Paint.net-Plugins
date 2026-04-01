@@ -6,5 +6,6 @@ plugins for paint.net
 * Color Replacer
 * Brightness Adjuster
 * Bypass Creator
+* Replace By Alpha
 
   
