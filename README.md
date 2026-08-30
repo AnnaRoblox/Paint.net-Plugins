@@ -7,5 +7,6 @@ plugins for paint.net
 * Brightness Adjuster
 * Bypass Creator
 * Replace By Alpha
+* LSBStegoEncode
 
   
